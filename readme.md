@@ -1,8 +1,6 @@
 <p align="center"><img src="http://18.219.131.135/images/banner/logo1_default.png" width="400"></p>
 
-### Database
-username: root
-Password: k3726Snz?l8u7Tp
+
 
 ### Push Notifications
 1. Other user sent a message to me 
